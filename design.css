@@ -135,14 +135,31 @@ nav a#pull {
 }
 
 .box {
-    width: 750px;
+    width: 775px;
     height: 500px;
     background: #333;
     margin: 45px auto;
+    padding: 25px;
     color: #f2f2f2;
     font-size: 2em;
     text-align: center;
-    padding-top: 75px;
+    padding-top: 65px;
     border-radius: 2px;
     font-family: "Raleway", arial;
+}
+
+#gap {
+  height: 100px;
+}
+
+.typewrite {
+  position: relative;
+  bottom: 50px;
+  text-align: center;
+  text-decoration: underline;
+  font-family: "Verdana", arial;
+}
+
+h1 {
+  text-align: center;
 }
