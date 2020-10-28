@@ -135,6 +135,7 @@ nav a#pull {
 }
 
 .box {
+    max-width: 825px;
     background: #fff;
     margin: 45px auto;
     padding: 20px;
